@@ -1,1 +1,3 @@
 estoy haciendo pruebas de push pull en git
+segundo anyadido a github
+se definen el nombre de usuario y email, aunque sea yo solo hace referencia desde donde estoy trabajando el archivo
